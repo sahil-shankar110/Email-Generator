@@ -1,0 +1,76 @@
+Techstack,Links
+"React, Node.js, MongoDB, Express.js",https://github.com/sahil-dev/mern-ecommerce-platform
+"Python, Pandas, NumPy, Matplotlib, Jupyter",https://github.com/sahil-dev/sales-data-analysis
+"Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap",https://github.com/sahil-dev/flask-blog-application
+"Python, Django, REST API, JWT, PostgreSQL",https://github.com/sahil-dev/django-task-manager-api
+"Python, Scikit-learn, Pandas, NumPy, Streamlit",https://github.com/sahil-dev/ml-house-price-predictor
+"JavaScript, React, Redux, Tailwind CSS, Firebase",https://github.com/sahil-dev/react-todo-app-firebase
+"Python, TensorFlow, Keras, OpenCV, NumPy",https://github.com/sahil-dev/image-classification-cnn
+"Node.js, Express.js, MongoDB, JWT, Bcrypt",https://github.com/sahil-dev/nodejs-authentication-system
+"Python, FastAPI, SQLAlchemy, Pydantic, PostgreSQL",https://github.com/sahil-dev/fastapi-blog-backend
+"React, TypeScript, Material-UI, Axios, React Router",https://github.com/sahil-dev/typescript-dashboard-app
+"Python, Selenium, BeautifulSoup, Pandas, SQLite",https://github.com/sahil-dev/web-scraping-automation
+"Vue.js, Vuex, Vue Router, Axios, Bootstrap",https://github.com/sahil-dev/vuejs-weather-application
+"Python, Django, Celery, Redis, Docker",https://github.com/sahil-dev/django-async-task-queue
+"Angular, TypeScript, RxJS, Angular Material, Firebase",https://github.com/sahil-dev/angular-chat-application
+"Python, PyTorch, Transformers, NumPy, Pandas",https://github.com/sahil-dev/sentiment-analysis-nlp
+"Next.js, React, Prisma, PostgreSQL, Tailwind CSS",https://github.com/sahil-dev/nextjs-fullstack-blog
+"Python, Scikit-learn, XGBoost, Pandas, Matplotlib",https://github.com/sahil-dev/customer-churn-prediction
+"Node.js, Socket.io, Express.js, MongoDB, React",https://github.com/sahil-dev/realtime-chat-application
+"Python, Streamlit, Plotly, Pandas, NumPy",https://github.com/sahil-dev/interactive-data-dashboard
+"React Native, Expo, Firebase, AsyncStorage, React Navigation",https://github.com/sahil-dev/expense-tracker-mobile-app
+"Python, Flask, Docker, Kubernetes, PostgreSQL",https://github.com/sahil-dev/microservices-flask-app
+"JavaScript, Three.js, WebGL, GSAP, Webpack",https://github.com/sahil-dev/3d-portfolio-website
+"Python, Scrapy, MongoDB, Pandas, BeautifulSoup",https://github.com/sahil-dev/ecommerce-price-tracker
+"Express.js, GraphQL, Apollo Server, MongoDB, JWT",https://github.com/sahil-dev/graphql-social-media-api
+"Python, OpenCV, Mediapipe, NumPy, Tkinter",https://github.com/sahil-dev/hand-gesture-recognition
+"Java, Spring Boot, Hibernate, MySQL, Maven",https://github.com/sahil-dev/springboot-inventory-system
+"Python, Pygame, NumPy, SQLite",https://github.com/sahil-dev/2d-platformer-game
+"HTML, CSS, JavaScript, Bootstrap, jQuery",https://github.com/sahil-dev/responsive-landing-page
+"Python, Beautiful Soup, Requests, CSV",https://github.com/sahil-dev/job-scraper-tool
+"React, Context API, Chart.js, LocalStorage",https://github.com/sahil-dev/budget-tracker-app
+"Python, NLTK, Scikit-learn, Flask",https://github.com/sahil-dev/text-classification-api
+"Node.js, Passport.js, MongoDB, EJS",https://github.com/sahil-dev/user-auth-template
+"Python, Matplotlib, Seaborn, Jupyter, Pandas",https://github.com/sahil-dev/covid-data-visualization
+"C++, SFML, CMake",https://github.com/sahil-dev/space-shooter-game
+"PHP, Laravel, MySQL, Bootstrap, Blade",https://github.com/sahil-dev/laravel-cms-system
+"Python, Spacy, TextBlob, Streamlit",https://github.com/sahil-dev/nlp-sentiment-analyzer
+"JavaScript, D3.js, TopoJSON, CSV",https://github.com/sahil-dev/interactive-world-map
+"Python, SQLAlchemy, Alembic, PostgreSQL",https://github.com/sahil-dev/database-migration-tool
+"Ruby, Rails, PostgreSQL, RSpec",https://github.com/sahil-dev/rails-booking-platform
+"Kotlin, Android SDK, Retrofit, Room",https://github.com/sahil-dev/android-weather-app
+"Swift, UIKit, CoreData, Alamofire",https://github.com/sahil-dev/ios-notes-app
+"Go, Gin, GORM, PostgreSQL",https://github.com/sahil-dev/golang-rest-api
+"R, Shiny, ggplot2, dplyr",https://github.com/sahil-dev/r-shiny-dashboard
+"Unity, C#, Blender",https://github.com/sahil-dev/unity-puzzle-game
+"Rust, Actix-web, Diesel, PostgreSQL",https://github.com/sahil-dev/rust-web-server
+"Electron, React, SQLite, Node.js",https://github.com/sahil-dev/desktop-notes-app
+"Python, Keras, CNN, Image Processing",https://github.com/sahil-dev/face-mask-detection
+"MongoDB, Mongoose, Node.js, Express.js",https://github.com/sahil-dev/mongodb-crud-api
+"MySQL, PHP, Ajax, Bootstrap",https://github.com/sahil-dev/php-student-portal
+"Firebase, Firestore, React, Authentication",https://github.com/sahil-dev/firebase-chat-app
+"PyTorch, Computer Vision, OpenCV, Deep Learning, YOLO",https://github.com/sahil-dev/object-detection-yolo
+"PyTorch, Video Classification, CNN, Temporal Modeling, FFmpeg",https://github.com/sahil-dev/video-action-recognition
+"TensorFlow, Keras, Image Segmentation, OpenCV, NumPy",https://github.com/sahil-dev/image-segmentation-model
+"PyTorch, GANs, Image Generation, Deep Learning, NumPy",https://github.com/sahil-dev/generative-image-synthesis
+"Python, Diffusion Models, Stable Diffusion, Image Generation, HuggingFace",https://github.com/sahil-dev/stable-diffusion-pipeline
+"PyTorch, Multimodal Learning, CLIP, Vision Transformer, HuggingFace",https://github.com/sahil-dev/multimodal-image-text-model
+"Python, LangChain, LLMs, OpenAI, RAG",https://github.com/sahil-dev/rag-chatbot-langchain
+"Python, LLMs, Prompt Engineering, FastAPI, OpenAI",https://github.com/sahil-dev/llm-powered-qa-system
+"Python, HuggingFace, Transformers, NLP, Fine-tuning",https://github.com/sahil-dev/llm-fine-tuning-pipeline
+"Python, Speech Recognition, Whisper, NLP, PyTorch",https://github.com/sahil-dev/speech-to-text-pipeline
+"Python, LangChain, Vector Database, ChromaDB, OpenAI",https://github.com/sahil-dev/ai-document-search-engine
+"PyTorch, Reinforcement Learning, OpenAI Gym, DQN, NumPy",https://github.com/sahil-dev/rl-game-agent
+"Python, MLflow, Model Deployment, FastAPI, Docker",https://github.com/sahil-dev/ml-model-deployment-pipeline
+"Python, Data Annotation, Label Studio, Computer Vision, Pandas",https://github.com/sahil-dev/data-annotation-pipeline
+"PyTorch, Pose Estimation, OpenCV, Mediapipe, Deep Learning",https://github.com/sahil-dev/human-pose-estimation
+"Python, Video Processing, FFmpeg, OpenCV, Deep Learning",https://github.com/sahil-dev/video-processing-pipeline
+"PyTorch, Optical Flow, Video Analysis, CNN, NumPy",https://github.com/sahil-dev/optical-flow-estimation
+"Python, Anomaly Detection, Autoencoders, PyTorch, Scikit-learn",https://github.com/sahil-dev/anomaly-detection-system
+"Python, OCR, Tesseract, OpenCV, Deep Learning",https://github.com/sahil-dev/document-ocr-extractor
+"PyTorch, 3D Vision, Point Cloud, Open3D, Deep Learning",https://github.com/sahil-dev/3d-point-cloud-classifier
+"Python, AI Agents, LangChain, OpenAI, Tool Use",https://github.com/sahil-dev/autonomous-ai-agent
+"Python, Text to Image, DALL-E, OpenAI, Streamlit",https://github.com/sahil-dev/text-to-image-generator
+"Python, Video Summarization, LLMs, OpenCV, Whisper",https://github.com/sahil-dev/ai-video-summarizer
+"PyTorch, Face Recognition, DeepFace, OpenCV, Deep Learning",https://github.com/sahil-dev/face-recognition-system
+"Python, Risk Detection, Computer Vision, PyTorch, OpenCV",https://github.com/sahil-dev/ai-risk-detection-system
