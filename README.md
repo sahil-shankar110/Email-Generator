@@ -1,6 +1,6 @@
-AI-Powered Email Generator
+# AI-Powered Email Generator
 
-From URL to ready-to-send professional emails in minutes. 🚀
+**From URL to ready-to-send professional emails in minutes. 🚀**
 
 This project is an AI-powered email generator that analyzes a job posting or company URL and creates tailored, professional emails. It’s designed for job seekers, internship applicants, and freelancers to save time while maintaining relevant and personalized communication.
 
