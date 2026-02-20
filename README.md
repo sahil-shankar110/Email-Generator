@@ -37,8 +37,8 @@ Try the live app here: 🌐 Streamlit App Link : https://email-generator-by-sahi
 - Sample Links Repository: Included 2–3 example projects for quick email personalization
 
 **Screenshots / Demo**
-<img width="1920" height="1080" alt="Screenshot (14)" 
+<img width="1920" height="1080" alt="Screenshot (16)" 
 src="https://github.com/user-attachments/assets/e246b904-7427-4cf9-abf9-db5903f1b546" />
 
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6532cdf2-697d-496f-ba51-096fde245662" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/6532cdf2-697d-496f-ba51-096fde245662" />
 
