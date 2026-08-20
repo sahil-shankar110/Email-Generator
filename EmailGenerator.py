@@ -11,7 +11,7 @@ class Email_Generator:
     def __init__(self):
         self.llm = ChatGroq(
             api_key= groq_api_key,
-            model="meta-llama/llama-4-scout-17b-16e-instruct",
+            model="openai/gpt-oss-120b",
             temperature=0.4,
             max_tokens=None,
             max_retries=2)
